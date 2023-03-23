@@ -20,3 +20,4 @@ personalMovieDB.movies[a] = b; // помещаем ответы в объект 
 personalMovieDB.movies[c] = d; // помещаем ответы в объект movies
 
 console.log(personalMovieDB); // выводим объект в консоль
+ыыа
